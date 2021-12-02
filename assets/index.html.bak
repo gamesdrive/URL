@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Tiiny - URL Shortener</title>
+    <title>CYBAR.XYZ - URL Shortener</title>
     <meta name="author" content="Adnan Ahmad">
     <meta name="description" content="Shorten long URLs in just a click.">
     <link rel="apple-touch-icon" sizes="180x180" href="/static/favicon/apple-touch-icon.png">
@@ -120,7 +120,7 @@
     <footer class="footer">
         <div class="content has-text-centered">
             <p class="is-size-7">
-                <strong>Tiiny</strong> by <a href="https://viperadnan-git.github.io">Adnan Ahmad</a>.<br>The source code is licensed
+                <strong>CYBAR.XYZ</strong> by <a href="https://www.youtube.com/c/GAMESDRIVES">GAMESDRIVE</a>.<br>The source code is licensed
                 <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.<br>
 
             </p>
